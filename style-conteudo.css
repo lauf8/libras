@@ -60,7 +60,7 @@
   
   @media (max-width: 700px){
       .main .video video {
-          width: 90%;
+          width: 70;
           border-radius: 50px;
         }
   
