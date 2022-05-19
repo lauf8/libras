@@ -64,3 +64,10 @@ h1{
       }
 
 }
+
+    @media (max-width: 400px){
+      .main .video video {
+          width: 70%;
+          border-radius: 50px;
+        }
+    }
